@@ -23,6 +23,10 @@ div{
     text-align: center;
 }
 
+div#foto{ /*para a saudação não ficar colada na imagem*/
+    margin-top: 10px;
+}
+
 img{ /*para deixar as imgs redondas*/
     border-radius: 50%;
     width: 250px;
